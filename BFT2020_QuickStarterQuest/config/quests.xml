@@ -1,0 +1,25 @@
+<config>
+
+	<remove  xpath="//quest[@id='intro_buried_supplies']/property[@name='reward_choices_count']"/>
+
+	<remove  xpath="//quest[@id='intro_buried_supplies']/objective[@type='RandomGotoNPC']"/>
+	<remove  xpath="//quest[@id='intro_buried_supplies']/objective[@type='RallyPoint']"/>
+	<remove  xpath="//quest[@id='intro_buried_supplies']/objective[@type='StayWithin']"/>	
+	<remove  xpath="//quest[@id='intro_buried_supplies']/objective[@type='TreasureChest']"/>
+	<remove  xpath="//quest[@id='intro_buried_supplies']/objective[@type='FetchFromTreasure']"/>	
+	<remove  xpath="//quest[@id='intro_buried_supplies']/action[@type='SpawnGSEnemy']"/>	
+	
+	<set  xpath="//quest[@id='intro_buried_supplies']/objective[@type='ReturnToNPC']/property[@name='phase']/@value">1</set>
+	<set  xpath="//quest[@id='intro_buried_supplies']/objective[@type='InteractWithNPC']/property[@name='phase']/@value">1</set>
+
+	<set  xpath="//quest[@id='intro_buried_supplies']/property[@name='description_key']/@value">quest_intro_buried_supplies_description</set>
+	<set  xpath="//quest[@id='intro_buried_supplies']/property[@name='subtitle_key']/@value">quest_intro_buried_supplies_subtitle</set>	
+	<set  xpath="//quest[@id='intro_buried_supplies']/property[@name='statement_key']/@value">quest_intro_buried_supplies_statement</set>	
+	<set  xpath="//quest[@id='intro_buried_supplies']/property[@name='completion_key']/@value">quest_intro_buried_supplies_completion</set>	
+
+ 	<remove  xpath="//quest[@id='intro_buried_supplies']/reward"/>
+	<remove xpath="//quest[@id='quest_whiteRiverCitizen1']/action[@type='ShowMessageWindow']"/>	
+
+</config>
+
+

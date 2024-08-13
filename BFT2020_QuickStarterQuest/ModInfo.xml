@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="BFT2020_QuickStarterQuest" />
+	<DisplayName value="BFT2020 Quick Starter Quest" />
+	<Description value="Quickly complete the trader starter quest" />
+	<Author value="BFT2020" />
+	<Version value="1.1.0.1" />
+	<Website value="" />
+	<SkipWithAntiCheat value="false" />
+</xml>

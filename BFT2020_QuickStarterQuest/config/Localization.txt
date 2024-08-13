@@ -1,0 +1,7 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
+quest_intro_buried_supplies_completion,Quest,Quest Info,,,"Well I'll be danged. You are ready to do missions for me now.  Sorry no rewards for just a friendly chat.",,,,,,,,,,,,,
+quest_intro_buried_supplies_description,Quest,Quest Info,,,"Why don't you just talk to me for a moment and I can get you setup.",,,,,,,,,,,,,
+quest_intro_buried_supplies_statement,Quest,Quest Info,,,Stay awhile and Listen,,,,,,,,,,,,,
+quest_intro_buried_supplies_subtitle,Quest,Quest Info,,,Stay awhile and Listen,,,,,,,,,,,,,
+quest_intro_buried_supplies,Quest,Quest Info,,,Speak to the Trader,,,,,,,,,,,,,
+quest_intro_buried_supplies_offer,Quest,Quest Info,,,"Let's start you off with something a little easier. Just talk to me for another minute and we will get you setup.",,,,,,,,,,,,,
